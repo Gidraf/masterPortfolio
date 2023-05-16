@@ -6,6 +6,7 @@ const SvgComponent = (props) => (
     data-name="Layer 2"
     viewBox="0 0 1076.33 600.39"
     {...props}
+    style={{ height: "600px" }}
   >
     <defs>
       <style>
