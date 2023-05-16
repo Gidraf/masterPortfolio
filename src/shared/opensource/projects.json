@@ -1,37 +1,25 @@
 {
   "data": [
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "MDEwOlJlcG9zaXRvcnkxNjU2MTkwODI=",
+      "name": "G-player",
+      "createdAt": "2019-01-14T07:55:39Z",
+      "url": "https://github.com/Gidraf/G-player",
+      "description": "Android Simple music player",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "Java",
+          "iconifyClass": "logos-java"
         }
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "MDEwOlJlcG9zaXRvcnkxNDM3NjU1ODA=",
+      "name": "Stackoverflow-lite",
+      "createdAt": "2018-08-06T18:11:48Z",
+      "url": "https://github.com/Gidraf/Stackoverflow-lite",
+      "description": "StackOverflow-lite is a platform where people can ask questions and provide answers ",
       "isFork": false,
       "languages": [
         {
@@ -41,74 +29,48 @@
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "MDEwOlJlcG9zaXRvcnkxODcxNjM0MzM=",
+      "name": "OrderIt",
+      "createdAt": "2019-05-17T06:57:50Z",
+      "url": "https://github.com/Gidraf/OrderIt",
+      "description": "A mobile frontend of an e-commerce system which allows users to search, add items to their shopping cart, create orders, and checkout successfully.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNzcxNjk2MDA=",
+      "name": "mdundo-scraper",
+      "createdAt": "2021-06-15T13:18:58Z",
+      "url": "https://github.com/Gidraf/mdundo-scraper",
+      "description": "Get songs data in JSON format from mdundo.com site with ease inspired by sound cloud scraper",
+      "isFork": false,
+      "languages": [
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNzY3NjMzODA=",
+      "name": "Gplayer2021",
+      "createdAt": "2021-06-14T09:03:59Z",
+      "url": "https://github.com/Gidraf/Gplayer2021",
+      "description": "A sample audio app for Android that shows how to consume API data from mdundo-scraper. This project has been built on top of the Android UAMP project.",
+      "isFork": true,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
         },
         {
           "name": "Shell",
           "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
-      "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
         }
       ]
     }
