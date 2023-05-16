@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Gidraf Orenja - Portfolio",
   description:
-    "Experienced software engineer, with over 5 years of practical hand-on in various technology industries, including FinTech, E-Commerce, Ride-Hailing Apps, and Bots, I have a proven track record of quickly embedding in client teams, gathering requirements, and designing top-performing applications. ",
+    "Experienced software engineer, with over 5 years of practical hands-on in various technology industries, including FinTech, E-Commerce, Ride-Hailing Apps, and Bots, I have a proven track record of quickly embedding in client teams, gathering requirements, and designing top-performing applications. ",
   og: {
     title: "Gidraf Orenja Portfolio",
     type: "website",
@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Experienced software engineer, with over 5 years of practical hand-on in various technology industries, including FinTech, E-Commerce, Ride-Hailing Apps, and Bots, I have a proven track record of quickly embedding in client teams, gathering requirements, and designing top-performing applications. ",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://docs.google.com/document/d/1JTquXpbkxRS0GW9Ruk_poAKpG7EXs-ukiUkyANBtFxg/edit?usp=sharing",
   portfolio_repository: "https://github.com/Gidraf/masterPortfolio",
   githubProfile: "https://github.com/gidraf",
 };
