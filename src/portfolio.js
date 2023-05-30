@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Gidraf Orenja - Portfolio",
   description:
-    "Experienced software engineer, with over 5 years of practical hands-on in various technology industries, including FinTech, E-Commerce, Ride-Hailing Apps, and Bots, I have a proven track record of quickly embedding in client teams, gathering requirements, and designing top-performing applications. ",
+    "I am a passionate software developer and a mentor with over 7 years of experience. I started my career as a self-taught developer, and have I worked on reknown companies like Andela and Co-operative bank just to mention a few. I know the challenges that comes with learning to code on your own. I am committed to helping aspiring developers learn and grow. I believe with good guidance everyone has the potential to be a great software developer. I offer one-on-one mentoring. Contact me to learn more",
   og: {
     title: "Gidraf Orenja Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "GidrafOrenja",
   nickname: "Gidraf",
   subTitle:
-    "Experienced software engineer, with over 5 years of practical hand-on in various technology industries, including FinTech, E-Commerce, Ride-Hailing Apps, and Bots, I have a proven track record of quickly embedding in client teams, gathering requirements, and designing top-performing applications. ",
+    "I am a passionate software developer and a mentor with over 7 years of experience. I started my career as a self-taught developer, and have I worked on reknown companies like Andela and Co-operative bank just to mention a few. I know the challenges that comes with learning to code on your own. I am committed to helping aspiring developers learn and grow. I believe with good guidance everyone has the potential to be a great software developer. I offer one-on-one mentoring. Contact me to learn more",
   resumeLink:
     "https://docs.google.com/document/d/1JTquXpbkxRS0GW9Ruk_poAKpG7EXs-ukiUkyANBtFxg/edit?usp=sharing",
   portfolio_repository: "https://github.com/Gidraf/masterPortfolio",
@@ -87,12 +87,16 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Mobile Development",
+      title: "Mobile Development Mentorship",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Skilled mobile developer for iOS and Android, creating top-notch apps tailored to each platform's unique features.",
-        "⚡ Experienced iOS and Android developer, building visually appealing and robust applications for diverse devices using hybrid solution like React Native or Flutter",
-        "⚡ Versatile mobile developer excelling in iOS and Android development, delivering seamless cross-platform solutions",
+        "In Mobile Development mentorship, you will learn the top and cutting age technical skills in mobile development that will help secure a job, including:",
+        "⚡ Basics of mobile development: Learn the fundamentals of mobile development, such as the different mobile platforms, programming languages, and frameworks.",
+        "⚡ Network requests: Learn how to make network requests to fetch data from the internet.",
+        "⚡ Websockets: Learn how to use websockets to create real-time applications.",
+        "⚡ MVVM: Learn the Model-View-ViewModel design pattern for building clean and maintainable mobile apps.",
+        "⚡ Testing: Learn how to write unit tests and integration tests to ensure that your code is reliable.",
+        "⚡ Compose and SwiftUI: Learn the latest UI toolkits for building beautiful and performant mobile apps.",
       ],
       softwareSkills: [
         {
@@ -145,12 +149,17 @@ const skills = {
       ],
     },
     {
-      title: "Frontend Development",
+      title: "Frontend Development Mentorship",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing progress web app using gastby, Nextjs and Angular",
-        "⚡ Build Frontend Applications with Vue, Jquery and Vanillajs",
+        "In our Frontend Development Package, you will learn the top technical skills in frontend development that will help you secure a job, including:",
+        "⚡ Basics of mobile development: Learn the fundamentals of mobile development, such as the different mobile platforms, programming languages, and frameworks.",
+        "⚡ HTML/CSS/Javascript: Learn the basics of HTML/CSS/Javascript, the technology used for web pages.",
+        "⚡ React/Angular/Vue/Jquery: Learn React, the popular JavaScript frameworks for building user interfaces.",
+        "⚡ Chrome Dev Tools: Learn Angular, a popular JavaScript framework for building single-page applications.",
+        "⚡ WebRTC: Learn WebRTC, a technology that allows web browsers to communicate with each other in real time.",
+        "⚡ WebSockets: Learn WebSockets, a technology that allows web browsers to communicate with a server in real time.",
+        "⚡ Debugging with Chrome DevTools: Learn how to use Chrome DevTools to debug JavaScript code.",
       ],
       softwareSkills: [
         {
@@ -227,13 +236,17 @@ const skills = {
       ],
     },
     {
-      title: "Backend and Devops",
+      title: "Backend and Devops Mentorship",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "In Backend Development mentorship, you will learn the top and cutting-edge technical skills in backend development that will help you secure a job, including:",
+        "⚡ Basics of backend development: Learn the fundamentals of backend development, such as the different programming languages, frameworks, and technologies.",
+        "⚡ Databases: Learn how to design and implement databases to store and retrieve data.",
+        "⚡ APIs: Learn how to create and consume APIs to interact with other systems e.g. Restful API's",
+        "⚡ Web services: Learn how to build web services to expose functionality to other applications.",
+        "⚡ Microservices: Learn how to build microservices-based architectures to make applications more scalable and resilient.",
+        "⚡ DevOps: Learn how to automate the development, deployment, and operations of backend applications.",
+        "⚡ Security: Learn how to secure backend applications from attack.",
       ],
       softwareSkills: [
         {
@@ -298,9 +311,14 @@ const skills = {
       title: "UI/UX Design",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "In UI/UX Development mentorship, you will learn the top and cutting-edge skills in UI/UX development that will help you secure a job, including:",
+        "⚡ User-centered design: Learn how to design products that are centered around the user's needs and wants.",
+        "⚡ Information architecture: Learn how to organize and structure information in a way that is easy for users to find and understand.",
+        "⚡ Visual design: Learn how to create visually appealing and engaging interfaces.",
+        "⚡ Motion design: Learn how to use animation and motion to create a more dynamic and interactive user experience.",
+        "⚡ Prototyping: Learn how to create prototypes of your designs to test and iterate on them before you build the final product.",
+        "⚡ Testing: Learn how to test your designs with users to ensure that they are easy to use and meet their needs.",
+        "⚡ Collaboration: Learn how to collaborate with other designers, developers, and stakeholders to create successful products.",
       ],
       softwareSkills: [
         {
@@ -400,7 +418,7 @@ const experience = {
           company: "Andela",
           company_url: "https://andela.com/",
           logo_path: "andela.jpeg",
-          duration: "Oct 2018 - October 2017",
+          duration: "Oct 2018 - Novemebr 2019",
           location: "Nairobi, Kenya",
           description:
             "Through our efforts, we were able to reduce the company's cost of operations significantly while delivering high-quality software that met our clients' needs. Served as a team captain, leading a group of junior developers in our software development efforts. In this role, I was responsible for ensuring that our team remained focused and motivated, and that our software development projects were completed on time and to the highest standards of quality.",
