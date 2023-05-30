@@ -385,7 +385,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship",
   description:
-    "I pursuit my passion as a self taught develoepr, along the way I have sharpened my skills through training and working in Andela",
+    "I am a self-taught developer who is passionate about learning and sharing knowledge.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -515,14 +515,14 @@ const contactPageData = {
     title: "Mentorship",
     subtitle:
       "For individual fundamental empowerment, I offer mentoship program with one on one coaching program on Android, Frontend Web, Backend and Devops. Click the link to book a spot",
-    link: "https://tobechangedlater",
+    link: "mailto:orenjagidraf@gmail.com",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
     subtitle: "Nairobi, Kenya",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://tobechangedlater",
+    location_map_link: "mailto:orenjagidraf@gmail.com",
   },
   phoneSection: {
     title: "",
