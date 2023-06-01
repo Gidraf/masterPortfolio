@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Gidraf Orenja - Portfolio",
   description:
-    "I am a passionate software developer and a mentor with over 7 years of experience. I started my career as a self-taught developer, and have I worked on reknown companies like Andela and Co-operative bank just to mention a few. I know the challenges that comes with learning to code on your own. I am committed to helping aspiring developers learn and grow. I believe with good guidance everyone has the potential to be a great software developer. I offer one-on-one mentoring. Contact me to learn more",
+    "I am a passionate software developer and a mentor with over 7 years of experience. I started my career as a self-taught developer, and have I worked in reknown companies like Andela and Co-operative bank just to mention a few. I know the challenges that comes with learning to code on your own. I am committed to helping aspiring developers learn and grow. I believe that, with good guidance everyone has the potential to be a great software developer. I offer one-on-one mentoring. Contact me to learn more",
   og: {
     title: "Gidraf Orenja Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "GidrafOrenja",
   nickname: "Gidraf",
   subTitle:
-    "I am a passionate software developer and a mentor with over 7 years of experience. I started my career as a self-taught developer, and have I worked on reknown companies like Andela and Co-operative bank just to mention a few. I know the challenges that comes with learning to code on your own. I am committed to helping aspiring developers learn and grow. I believe with good guidance everyone has the potential to be a great software developer. I offer one-on-one mentoring. Contact me to learn more",
+    "I am a passionate software developer and a mentor with over 7 years of experience. I started my career as a self-taught developer, and have I worked in reknown companies like Andela and Co-operative bank. I know the challenges that comes with learning to code on your own. I am committed to helping aspiring developers learn and grow. I believe that, with good guidance everyone has the potential to be a great software developer. I offer one-on-one mentoring. Contact me to learn more",
   resumeLink:
     "https://docs.google.com/document/d/1JTquXpbkxRS0GW9Ruk_poAKpG7EXs-ukiUkyANBtFxg/edit?usp=sharing",
   portfolio_repository: "https://github.com/Gidraf/masterPortfolio",
@@ -153,7 +153,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "In our Frontend Development Package, you will learn the top technical skills in frontend development that will help you secure a job, including:",
-        "⚡ Basics of mobile development: Learn the fundamentals of mobile development, such as the different mobile platforms, programming languages, and frameworks.",
+        "⚡ Basics of frontend development: Learn the fundamentals of web development, such as the different browsers and their rendering engines and their APIs.",
         "⚡ HTML/CSS/Javascript: Learn the basics of HTML/CSS/Javascript, the technology used for web pages.",
         "⚡ React/Angular/Vue/Jquery: Learn React, the popular JavaScript frameworks for building user interfaces.",
         "⚡ Chrome Dev Tools: Learn Angular, a popular JavaScript framework for building single-page applications.",
